@@ -3,7 +3,7 @@ blueprint:
   description: |
     **Version 1.0**   
     This blueprint integrates and controls the IKEA E2001/E2002 Styrbar remote control. 
-    The primary light entity handles on/off controls via the main buttons, 
+    The primary light entity handles on/off and dim controls via the main buttons, 
     while a separate dimmable entity can be controlled using the hold functions of right 
     and left buttons. Customizable settings allow fine-tuning of button behavior.
   source_url: https://github.com/Routout/Blueprints/blob/main/another_styrbar_dimmer.yaml
